@@ -1,6 +1,10 @@
 ---
 :lessons:
-- :id: 250551
-  :course_id: 6667
-  :canvas_url: https://learning.flatironschool.com/courses/6667/pages/event-handling-in-react
-  :type: page
+- :id: 68034
+  :course_id: 3264
+  :canvas_url: https://learning.flatironschool.com/courses/3264/assignments/68034
+  :type: assignment
+- :id: 166195
+  :course_id: 5492
+  :canvas_url: https://learning.flatironschool.com/courses/5492/assignments/166195
+  :type: assignment
