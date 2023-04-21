@@ -1,7 +1,8 @@
 import React from "react";
 
 function Tickler() {
-  function tickle() {
+  // eslint-disable-next-line 
+ function tickle() {
     console.log("Teehee!");
   }
 
